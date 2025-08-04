@@ -6,3 +6,5 @@ xgboost
 shap
 transformers
 joblib
+jinja2
+
