@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.23.1
+pandas
+scikit-learn
+xgboost
+shap
+transformers
+joblib
