@@ -8,3 +8,4 @@ transformers
 joblib
 jinja2
 python-multipart
+torch
